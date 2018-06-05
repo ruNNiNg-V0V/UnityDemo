@@ -13,7 +13,7 @@ public class NewTestScript {
         Scorer scorer = new BasicScorer();
 
         Player player1 = new Player("1");
-        player1.AddCard(new Card(3, true));
+        player1.AddCard(new Card(1, true));
         player1.AddCard(new Card(3, true));
 
         Player player2 = new Player("2");
